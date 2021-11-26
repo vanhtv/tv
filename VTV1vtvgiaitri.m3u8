@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
+https://aq6ax61aq.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8?token=vanhTV
+#https://aq6ax61aq.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8?token=vanhTV
+#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
+https://aq6ax61aq.vtvgiaitri.vn/vtv01/vtv01@720p.m3u8?token=vanhTV
+#https://aq6ax61aq.vtvgiaitri.vn/vtv01/vtv01@720p.m3u8?token=vanhTV
