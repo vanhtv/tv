@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3350687,RESOLUTION=1920x1080,CODECS="avc1.4d4028,mp4a.40.2"
+https://raw.githubusercontent.com/vanhtv/tv/main/VTV2FHD.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1655782,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2"
+https://raw.githubusercontent.com/vanhtv/tv/main/VTV2HD.m3u8
